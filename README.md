@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfolio Template
 
 ### A beautiful minimal and accessible portfolio template for Developers ✨.
@@ -229,3 +230,10 @@ For changing the screenshot:
     </div>
 </footer>
 ```
+=======
+# paul36bonep.github.io
+theme: jekyll-theme-minimal
+title: Octocat's homepage
+description: Bookmark this to keep an eye on my project updates!
+<p>Hello</p>
+>>>>>>> parent of 0b04c83 (Update README.md)
